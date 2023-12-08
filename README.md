@@ -1,6 +1,6 @@
 # Oi! me chamo Luan
 👔Atualmente trabalho na area financeira de uma empresa adminsitrativa. <br>
-📚Estou fazendo o cruso de HTML5, CSS e Javascript na Tech4me
+📚Estou fazendo o curso de HTML5, CSS e Javascript na Tech4me
 Pretendo mudar de carreira com esses novos conhecimentos e os estudos nunca param, ja tenho novos cursos e uma graduação de nivel superior em mente...
 
 <div style="display: inline_block"><br>
